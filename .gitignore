@@ -1,0 +1,10 @@
+# Build outputs (the exe is published on GitHub Releases)
+*.exe
+dist/
+
+# Editor / OS
+.vs/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
